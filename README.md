@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <table style="width:100%">
   <tr>
     <th>![Anurag's GitHub stats]<img src=https://github-readme-stats.vercel.app/api?username=liaochenlanruo&theme=highcontrast&show_icons=true></th>
-    <th>[![DenverCoder1's github streak]<img src=(https://github-readme-streak-stats.herokuapp.com/?user=liaochenlanruo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)></th>
+    <th><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://camo.githubusercontent.com/7d97244dc71ed7be97962126a119faa6f420e7109759dd6a846a1b62a7eb9bf5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c69616f6368656e6c616e72756f267468656d653d626c75652d677265656e" alt="DenverCoder1's github streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=liaochenlanruo&amp;theme=blue-green" style="max-width:100%;"></a></th>
   </tr>
   <tr>
   [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liaochenlanruo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
