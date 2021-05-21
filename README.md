@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 
+<h2 align="center">👋 Hello! I'm Hualin Liu.</h2>
+<p align="center">
+  <a href="https://liaochenlanruo.gitee.io/">
+  Blog · 
+  </a>
+  <a href="https://orcid.org/0000-0002-3630-5522">
+  Orcid
+  </a>
+</p>
+
+ ![Metrics](github-metrics.svg)
+ 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liaochenlanruo&layout=compact&v=2"/>
+
+<!--
+<table style="width:100%">
+  <tr>
+    <th><a href="https://github.com/liaochenlanruo">
+      <img src="https://github-readme-stats.vercel.app/api?username=liaochenlanruo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+    </a></th>
+    <th><a href="https://github.com/liaochenlanruo">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaochenlanruo&layout=compact&langs_count=6&hide=html,css" />
+    </a></th>
+  </tr>    
+</table>
+
+  <th><a href="https://github.com/liaochenlanruo">
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liaochenlanruo&layout=compact&v=2"/>
+    </a><th>
+-->
