@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 <table style="width:100%">
   <tr>
-    <th>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaochenlanruo&theme=highcontrast&show_icons=true)</th>
+    <th>![Anurag's GitHub stats]<img src=https://github-readme-stats.vercel.app/api?username=liaochenlanruo&theme=highcontrast&show_icons=true></th>
     <th>[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=liaochenlanruo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)</th>
   </tr>
   <tr>
