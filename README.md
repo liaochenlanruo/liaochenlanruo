@@ -25,25 +25,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- 
- 
+<!-- 
+<table style="width:100%"> 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaochenlanruo&theme=highcontrast&show_icons=true) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=liaochenlanruo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liaochenlanruo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
  
-
-<!--
+</table>
+-->
 <table style="width:100%">
   <tr>
-    <th><a href="https://github.com/liaochenlanruo">
-      <img src="https://github-readme-stats.vercel.app/api?username=liaochenlanruo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-    </a></th>
-    <th><a href="https://github.com/liaochenlanruo">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaochenlanruo&layout=compact&langs_count=6&hide=html,css" />
-    </a></th>
-  </tr>    
+    <th>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaochenlanruo&theme=highcontrast&show_icons=true)</th>
+    <th>[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=liaochenlanruo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)</th>
+  </tr>
+  <tr>
+  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liaochenlanruo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+  </tr>
 </table>
 
-  <th><a href="https://github.com/liaochenlanruo">
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liaochenlanruo&layout=compact&v=2"/>
-    </a><th>
--->
