@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
  ![Metrics](github-metrics.svg)
  
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liaochenlanruo&layout=compact&v=2"/>
+ #<img src="https://github-readme-stats.vercel.app/api/wakatime?username=liaochenlanruo&layout=compact&v=2"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=liaochenlanruo"/>
 
 <!--
 <table style="width:100%">
